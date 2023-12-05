@@ -1,0 +1,2 @@
+# kujibiki-slackapp
+くじびきをします
